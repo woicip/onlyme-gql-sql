@@ -1,2 +1,2 @@
 # onlyme-gql-sql
-Only Me - GraphQL with SQL
+OnlyMe GraphQL with SQL as database
